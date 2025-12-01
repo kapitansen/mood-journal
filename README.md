@@ -1,6 +1,6 @@
 # Mood Journal
 
-A small application for tracking the psycho-emotional state based on several factors. In memory of my crazy ex :)
+A small application for tracking the psycho-emotional state based on several factors.
 
 Working example can be found here - https://mood-journal.vercel.app
 
